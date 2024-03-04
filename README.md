@@ -30,3 +30,9 @@ To run this on your local machine, you will need to have the <strong>latest LTS 
 
 1. Run the `npm run build` command
 2. Simply copy the contents of the `/dist` folder in the root directory to your web server
+
+## Website Images
+
+<img src="https://github.com/NeoFoxxo/swoonstays-landing-page/blob/master/repo-images/Home.png" alt="Home Section" width="100%">
+<img src="https://github.com/NeoFoxxo/swoonstays-landing-page/blob/master/repo-images/Category.png" alt="Category Selection" width="100%">
+<img src="https://github.com/NeoFoxxo/swoonstays-landing-page/blob/master/repo-images/State.png" alt="State Selection" width="100%">
