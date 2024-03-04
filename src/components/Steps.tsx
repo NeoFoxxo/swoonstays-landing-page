@@ -55,13 +55,13 @@ export default function Steps({ currentStep }: StepsProps) {
 								</div>
 							</div>
 							<div className="h-8 flex items-center md:h-auto">
-								<h3
+								<p
 									className={`md:text-sm text-lg ${
 										isCurrentStep ? "text-primary-content font-bold" : ""
 									}`}
 								>
 									{item}
-								</h3>
+								</p>
 							</div>
 							<hr
 								className={`hidden mr-2 w-full border md:block ${
