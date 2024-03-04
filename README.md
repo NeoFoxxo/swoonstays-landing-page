@@ -1,6 +1,8 @@
 # Swoonstays Landing Page
 
-A landing page for [Swoonstays](https://swoonstays.au/v1) that allows customers to select their preferred state and category to find the perfect place to stay. The website is built with Astro, Preact, Tailwind CSS, DaisyUI, and utilises Preact Signals.
+A landing page for <a href="https://swoonstays.au/v1" target="_blank">Swoonstays</a> that allows customers to select their preferred state and category to find the perfect place to stay. The website is built with Astro, Preact, Tailwind CSS, DaisyUI, and utilises Preact Signals.
+
+<br><a href="https://swoonstays.au" target="_blank"><b>View Landing Page</b></a>
 
 ## Features
 
